@@ -1,0 +1,45 @@
+body {
+    background-color: #15133C;
+    color: aqua;
+    margin: 0;
+}
+
+.tab-bar {
+    background-color: #363062;
+    padding: 20px;
+}
+.kzw {
+    font-family: 'Macondo', cursive;
+    font-size: 30px;
+}
+
+.anchor {
+    
+}
+
+p {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.Contact-Me {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+.My-Job {
+    position: absolute;
+    right: 116px;
+    top: 30px;
+}
+.Home {
+    position: absolute;
+    right: 185px;
+    top: 30px;
+}
