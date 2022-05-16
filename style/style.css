@@ -6,11 +6,14 @@ body {
 
 .tab-bar {
     background-color: #363062;
-    padding: 20px;
+    padding: 30px;
 }
 .kzw {
     font-family: 'Macondo', cursive;
     font-size: 30px;
+    position: absolute;
+    left: 5px;
+    top: 10px;
 }
 
 .anchor {
@@ -30,16 +33,16 @@ a {
 }
 .Contact-Me {
     position: absolute;
-    right: 20px;
-    top: 30px;
+    right: 5px;
+    top: 20px;
 }
 .My-Job {
     position: absolute;
-    right: 116px;
-    top: 30px;
+    right: 86px;
+    top: 20px;
 }
 .Home {
     position: absolute;
-    right: 185px;
-    top: 30px;
+    right: 139px;
+    top: 20px;
 }
