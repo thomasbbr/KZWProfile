@@ -1,48 +1,95 @@
 body {
-    background-color: #15133C;
     color: aqua;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+    color: aqua;
+}
+
+.navbar-brand:hover {
+    color: aquamarine;
+}
+
+.nav-link {
+    color: aqua;
+}
+.nav-link:hover {
+    color: aquamarine;
+}
+
+/* Title Menu */
+#title {
+    background-color: #06113C;
+    padding: 5% 15%;
+}
+
+.navbar {
+    margin: 0 0 5%;
+}
+
+.fb-img, .mes-img {
     margin: 0;
 }
 
-.tab-bar {
-    background-color: #363062;
-    padding: 30px;
-}
-.kzw {
-    font-family: 'Macondo', cursive;
-    font-size: 30px;
-    position: absolute;
-    left: 5px;
-    top: 10px;
+.btn {
+    margin-top: 15px;
 }
 
-.anchor {
-    
+i {
+    margin: 0 5px 0 0;
 }
 
-p {
-    display: inline-block;
-    margin: 0 auto;
+.OpenImg {
+    /* transform: rotate(5deg); */
+    margin-right: 0;
+}
+
+.Intro {
+    margin: 10% 0;
+    text-align: center;
 }
 
 a {
-    color: aqua;
     text-decoration: none;
-    display: inline-block;
+    color: white;
+}
+
+/* Quotes Section */
+
+#quotes {
+    color: #06113C;
+    background-color: aqua;
     
 }
-.Contact-Me {
-    position: absolute;
-    right: 5px;
-    top: 20px;
+
+.fav-quote-title {
+    padding-top: 5%;
 }
-.My-Job {
-    position: absolute;
-    right: 86px;
-    top: 20px;
+
+.quotes {
+    margin-bottom: 20px;
+    padding: 7% 15%;
 }
-.Home {
-    position: absolute;
-    right: 139px;
-    top: 20px;
+
+.quote-img {
+    border-radius: 100%;
+    width: 10%;
+}
+
+.carousel-item {
+    text-align: center;
+    padding: 3% 15%;
+    
+}
+
+.button-blue {
+    /* border-radius: 50%;
+    height: 40%;
+    width: 10%;
+    background-color: #06113C; */
 }
